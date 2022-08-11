@@ -1,3 +1,3 @@
 # Demo
 
-The begining of understanding git and github
+The begining of understanding git and github. lets go
